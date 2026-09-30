@@ -1,0 +1,5 @@
+# AUTO FOOTAGE: bản cập nhật / updates
+
+**Tiếng Việt.** Kho này chỉ chứa các gói cập nhật đã mã hoá của app AUTO FOOTAGE Studio, không có mã nguồn. App trên máy thành viên tự kiểm tra kho này 6 giờ một lần và tự cài bản mới. Gói chỉ giải mã được trên máy có giấy phép (key) hợp lệ; mỗi bản đều có chữ ký Ed25519 để app từ chối gói giả. Lần đầu: tải `auto-footage-<bản>.zip` ở mục Releases, giải nén, chạy `cai-dat\CAI DAT.bat`, mở app, đăng nhập và nhập key. Mua key và hướng dẫn: https://ducpt.com/dich-vu/tim-nguon-youtube/
+
+**English.** This repository only holds encrypted update packages for the AUTO FOOTAGE Studio app, no source code. Installed apps check it every 6 hours and install new versions on their own. Packages only decrypt on a machine with a valid licence key, and every release carries an Ed25519 signature so the app rejects forged packages. First install: download `auto-footage-<version>.zip` from Releases, unzip, run `cai-dat\CAI DAT.bat`, open the app, sign in and enter your key. Keys and help: https://ducpt.com/dich-vu/tim-nguon-youtube/
