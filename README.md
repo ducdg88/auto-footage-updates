@@ -6,11 +6,11 @@ Kho này chứa file cài và các gói cập nhật đã mã hoá của app AUT
 
 ## Cài AUTO FOOTAGE lần đầu / First install
 
-**Tải về / Download:** [auto-footage-2.2.10.zip](https://github.com/ducdg88/auto-footage-updates/releases/download/v2.2.10/auto-footage-2.2.10.zip)
+**Tải về / Download:** [auto-footage-2.2.11.zip](https://github.com/ducdg88/auto-footage-updates/releases/download/v2.2.11/auto-footage-2.2.11.zip)
 
 ### Tiếng Việt (Windows 10, 11)
 
-1. **Tải** file `auto-footage-2.2.10.zip` ở link trên.
+1. **Tải** file `auto-footage-2.2.11.zip` ở link trên.
 2. **Giải nén** vào một chỗ cố định, ví dụ `Documents\AUTO FOOTAGE` (không để trong Downloads). Đang dùng bản cũ thì tắt app cũ trước.
 3. Mở thư mục `cai-dat`, **bấm đúp `CAI DAT.bat`**. Máy tự làm hết: cài Python 3.12 và ffmpeg nếu chưa có, cài thư viện AI, tạo lối tắt **AUTO FOOTAGE Studio** ngoài Desktop, rồi kiểm máy. Lần đầu mất khoảng 10 đến 30 phút, cần mạng ổn định, ổ đĩa trống từ 6 GB. Windows hỏi quyền thì bấm **Có**.
 4. Bấm lối tắt **AUTO FOOTAGE Studio** ngoài Desktop.
@@ -24,7 +24,7 @@ Kho này chứa file cài và các gói cập nhật đã mã hoá của app AUT
 
 ### English (Windows 10, 11)
 
-1. **Download** `auto-footage-2.2.10.zip` from the link above.
+1. **Download** `auto-footage-2.2.11.zip` from the link above.
 2. **Unzip** it to a permanent folder, e.g. `Documents\AUTO FOOTAGE` (not Downloads). Close any older version first.
 3. Open the `cai-dat` folder and **double-click `CAI DAT.bat`**. It sets up everything: Python 3.12 and ffmpeg if missing, the AI libraries, an **AUTO FOOTAGE Studio** shortcut on your Desktop, and a machine check. First run takes about 10 to 30 minutes and needs a stable connection and at least 6 GB free disk. Click **Yes** if Windows asks.
 4. Open **AUTO FOOTAGE Studio** from the Desktop.
